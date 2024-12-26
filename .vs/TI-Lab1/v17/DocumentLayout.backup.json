@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\",
+  "WorkspaceRootPath": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\mainblock\\\u0441ountmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\mainblock\\\u0441ountmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\mainblock\\\u0441ountmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\processing\\counterofgoogleindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\processing\\counterofgoogleindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\processing\\counterofgoogleindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\processing\\httpcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\processing\\httpcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\processing\\httpcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\models\\lettercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\models\\lettercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\models\\lettercounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\processing\\txtintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\processing\\txtintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\processing\\txtintroduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\output\\printword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\output\\printword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\output\\printword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\processing\\wordtopmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\processing\\wordtopmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\processing\\wordtopmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\models\\wordswithcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\models\\wordswithcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\models\\wordswithcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\mainblock\\approximator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\mainblock\\approximator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\mainblock\\approximator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\output\\exeloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\output\\exeloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\output\\exeloutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\source\\repos\\ti-lab1\\ti-lab1\\models\\alphabet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|c:\\users\\sora\\documents\\govno(mgtu)\\ti\\lr1\\ti-lab1\\ti-lab1\\models\\alphabet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B7A4537-7825-4474-89A9-CCF4C1B5BB26}|TI-Lab1\\TI-Lab1.csproj|solutionrelative:ti-lab1\\models\\alphabet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,15 +65,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\.gitignore*",
+              "RelativeToolTip": ".gitignore*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-26T21:06:29.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HttpCounter.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\HttpCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\HttpCounter.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Processing\\HttpCounter.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\HttpCounter.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\HttpCounter.cs",
               "RelativeToolTip": "TI-Lab1\\Processing\\HttpCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CounterOfGoogleIndex.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\CounterOfGoogleIndex.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\CounterOfGoogleIndex.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Processing\\CounterOfGoogleIndex.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\CounterOfGoogleIndex.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\CounterOfGoogleIndex.cs",
               "RelativeToolTip": "TI-Lab1\\Processing\\CounterOfGoogleIndex.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,24 +106,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "\u0421ountMaker.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\MainBlock\\\u0421ountMaker.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\MainBlock\\\u0421ountMaker.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\MainBlock\\\u0421ountMaker.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\MainBlock\\\u0421ountMaker.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\MainBlock\\\u0421ountMaker.cs",
               "RelativeToolTip": "TI-Lab1\\MainBlock\\\u0421ountMaker.cs",
-              "ViewState": "AgIAABUAAAAAMjMzMzPnvy0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:58:14.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WordTopMaker.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\WordTopMaker.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\WordTopMaker.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Processing\\WordTopMaker.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\WordTopMaker.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\WordTopMaker.cs",
               "RelativeToolTip": "TI-Lab1\\Processing\\WordTopMaker.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WordsWithCounter.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Models\\WordsWithCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Models\\WordsWithCounter.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Models\\WordsWithCounter.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Models\\WordsWithCounter.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Models\\WordsWithCounter.cs",
               "RelativeToolTip": "TI-Lab1\\Models\\WordsWithCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Approximator.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\MainBlock\\Approximator.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\MainBlock\\Approximator.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\MainBlock\\Approximator.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\MainBlock\\Approximator.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\MainBlock\\Approximator.cs",
               "RelativeToolTip": "TI-Lab1\\MainBlock\\Approximator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,23 +155,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\Sora\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
               "ToolTip": "C:\\Users\\Sora\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.2\\readme.txt",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-10-28T19:57:16.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ExelOutputService.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Output\\ExelOutputService.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Output\\ExelOutputService.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Output\\ExelOutputService.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Output\\ExelOutputService.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Output\\ExelOutputService.cs",
               "RelativeToolTip": "TI-Lab1\\Output\\ExelOutputService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAASwDIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PrintWord.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Output\\PrintWord.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Output\\PrintWord.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Output\\PrintWord.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Output\\PrintWord.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Output\\PrintWord.cs",
               "RelativeToolTip": "TI-Lab1\\Output\\PrintWord.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAMwCgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Alphabet.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Models\\Alphabet.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Models\\Alphabet.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Models\\Alphabet.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Models\\Alphabet.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Models\\Alphabet.cs",
               "RelativeToolTip": "TI-Lab1\\Models\\Alphabet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LetterCounter.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Models\\LetterCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Models\\LetterCounter.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Models\\LetterCounter.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Models\\LetterCounter.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Models\\LetterCounter.cs",
               "RelativeToolTip": "TI-Lab1\\Models\\LetterCounter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TxtIntroduction.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\TxtIntroduction.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\TxtIntroduction.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Processing\\TxtIntroduction.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Processing\\TxtIntroduction.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Processing\\TxtIntroduction.cs",
               "RelativeToolTip": "TI-Lab1\\Processing\\TxtIntroduction.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,19 +227,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Program.cs",
               "RelativeDocumentMoniker": "TI-Lab1\\Program.cs",
-              "ToolTip": "C:\\Users\\Sora\\source\\repos\\TI-Lab1\\TI-Lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sora\\Documents\\govno(mgtu)\\ti\\lr1\\TI-Lab1\\TI-Lab1\\Program.cs",
               "RelativeToolTip": "TI-Lab1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T13:43:19.602Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
