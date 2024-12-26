@@ -1,0 +1,17 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TI-Lab1/FileContentIndex/9d2fb815-dd69-4716-af56-e4748c8d0719.vsidx
+/.vs/TI-Lab1/FileContentIndex/ab586586-7c09-4e18-a175-564f768dd8c8.vsidx
+/.vs/TI-Lab1/FileContentIndex/bf7a54f5-14db-491d-a85a-f619d3745408.vsidx
+/.vs/TI-Lab1/FileContentIndex/efebed77-c5f3-44f4-8e38-6f76fe7a9e70.vsidx
+/TI-Lab1/obj/Debug/net8.0/TI-Lab1.AssemblyInfoInputs.cache
+/TI-Lab1/obj/Debug/net8.0/TI-Lab1.AssemblyInfo.cs
+/TI-Lab1/obj/Debug/net8.0/TI-Lab1.assets.cache
+/TI-Lab1/obj/Debug/net8.0/TI-Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/TI-Lab1/obj/project.assets.json
+/TI-Lab1/obj/project.nuget.cache
+/TI-Lab1/obj/TI-Lab1.csproj.nuget.dgspec.json
+/.vs/TI-Lab1/FileContentIndex/ab586586-7c09-4e18-a175-564f768dd8c8.vsidx
+/.vs/TI-Lab1/FileContentIndex/efebed77-c5f3-44f4-8e38-6f76fe7a9e70.vsidx
